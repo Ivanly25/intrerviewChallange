@@ -1,0 +1,15 @@
+h1 {
+ size: 100px;
+ color: red;
+}
+
+#main {
+    background-color: yellow;
+    height: 100vh;
+}
+
+#aside {
+    background-color: black;
+    height: 100vh;
+
+}
