@@ -1,11 +1,12 @@
 h1 {
- size: 100px;
+ size: 200px;
  color: red;
 }
 
 #main {
     background-color: yellow;
     height: 100vh;
+    background-image: main;
 }
 
 #aside {
