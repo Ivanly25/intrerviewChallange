@@ -16,3 +16,6 @@ User should be able to load up site, and click on the More Details button and a 
 
 # Rough draft
 [Link to image ](https://imgur.com/gallery/tROZznu)
+
+[final](https://imgur.com/a/F1krIa0)
+[pic](https://imgur.com/XY1SOk1)

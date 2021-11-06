@@ -2,18 +2,19 @@ h1 {
  font-size: 150px;
  color: red;
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- padding-top: 300px;
+ padding-top: 500px;
  padding-right: 10px;
+ 
 }
 
 #main {
-    height: 100vh;
+    height: 1000px;
     background-image: url(images/city-pic.jpeg);
 }
 
 #aside {
     background-color: black;
-    height: 100vh;
+    height: 1000px;
 
 }
 #longModal{
@@ -21,14 +22,6 @@ h1 {
 }
 #modal {
     margin-left: 300px;
-}
-#fb {
-    margin-bottom: 15px;
-
-}
-
-#ig {
-
 }
 
 .social-icons {
@@ -38,6 +31,7 @@ h1 {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    margin-right: 10px;
+    margin-right: 30px;
+    padding-top: 120px;
     
 }
