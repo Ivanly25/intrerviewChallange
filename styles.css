@@ -1,16 +1,36 @@
 h1 {
- size: 200px;
+ font-size: 150px;
  color: red;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ padding-top: 300px;
+ padding-right: 10px;
 }
 
 #main {
-    background-color: yellow;
     height: 100vh;
-    background-image: main;
+    background-image: url(images/city-pic.jpeg);
 }
 
 #aside {
     background-color: black;
     height: 100vh;
 
+}
+#longModal{
+    padding-left: 10px;
+}
+#modal {
+    margin-left: 300px;
+}
+.social-icons {
+    font-size: 48px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-right: 10px;
+    
+
+    
 }
