@@ -1,6 +1,8 @@
 # Explore Project
 by: ivan Ly 
 
+# live site link 
+[Click here to view](https://ivanly25.github.io/intrerviewChallange/)
 # User experience 
 ```
 User should be able to load up site, and click on the More Details button and a modal will appear with Text, then be able to close  
