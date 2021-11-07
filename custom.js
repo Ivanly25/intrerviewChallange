@@ -16,6 +16,7 @@ $(() => {
 $('#modal').click(function () {
 	$('h1').toggle("slow")
 })
+// show h1 when close button is clicked
 $('#btn').click(function () {
     $('h1').show()
 })
